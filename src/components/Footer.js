@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import React from 'react';
 
 const Footer = () => {
@@ -21,10 +22,10 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-semibold mb-4">Quick Links</h2>
           <ul className="space-y-2 text-sm text-gray-300">
-            <li><a href="#" className="hover:text-orange-400">Home</a></li>
-            <li><a href="/about" className="hover:text-orange-400">How to Play</a></li>
-            <li><a href="/privacy" className="hover:text-orange-400">Privacy Policy</a></li>
-            <li><a href="/T&C" className="hover:text-orange-400">Terms & Conditions</a></li>
+            <li><Link href="#" className="hover:text-orange-400">Home</Link></li>
+            <li><Link href="/about" className="hover:text-orange-400">How to Play</Link></li>
+            <li><Link href="/privacy" className="hover:text-orange-400">Privacy Policy</Link></li>
+            <li><Link href="/T&C" className="hover:text-orange-400">Terms & Conditions</Link></li>
           </ul>
         </div>
 
@@ -42,9 +43,9 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
-            <a href="#" className="hover:text-orange-400">Facebook</a>
-            <a href="#" className="hover:text-orange-400">Twitter</a>
-            <a href="#" className="hover:text-orange-400">Instagram</a>
+            <Link href="#" className="hover:text-orange-400">Facebook  </Link>
+            <Link href="#" className="hover:text-orange-400">Twitter  </Link>
+            <Link href="#" className="hover:text-orange-400">Instagram  </Link>
           </div>
         </div>
       </div>
