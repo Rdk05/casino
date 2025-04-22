@@ -21,7 +21,7 @@ const Navbar = () => {
     <nav className="bg-[#121217] px-4 py-2 flex items-center justify-between">
       {/* Logo */}
       <div className="flex-shrink-0">
-        <Image src="/logo.jpg" alt="Logo" className="h-14 w-auto" />
+        <Image src="/logo.jpg"  width={100} height={100} alt="Logo" className="h-14 w-auto" />
       </div>
 
       {/* Centered nav links */}
