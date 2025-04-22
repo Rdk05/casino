@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 
@@ -10,7 +11,7 @@ const Footer = () => {
         {/* Column 1: About */}
         <div>
         <div className="flex-shrink-0">
-        <img src="/logo.jpg" alt="Logo" className="h-14 w-auto" />
+        <Image src="/logo.jpg" alt="Logo" className="h-14 w-auto" />
       </div>
           <h2 className="text-xl font-semibold mb-4 mt-3">About Us</h2>
           <p className="text-sm text-gray-300">

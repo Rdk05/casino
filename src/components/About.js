@@ -20,7 +20,7 @@ const About = () => {
         <div className="space-y-4">
           <h2 className="text-2xl font-semibold text-orange-400">Who We Are</h2>
           <p className="text-gray-300 text-base">
-            RummyZone is a premium online rummy platform offering players an immersive and secure experience to play and win real cash. Whether you're a casual gamer or a competitive enthusiast, our platform is designed to offer something for everyone.
+            RummyZone is a premium online rummy platform offering players an immersive and secure experience to play and win real cash. Whether you`re a casual gamer or a competitive enthusiast, our platform is designed to offer something for everyone.
           </p>
         </div>
 

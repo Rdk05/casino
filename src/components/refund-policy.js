@@ -23,7 +23,7 @@ const RefundPolicy = () => {
 
         <h2 className="text-2xl font-semibold text-orange-300 mt-6 mb-2">3. Technical Errors</h2>
         <p className="text-gray-300 mb-4">
-          If a game fails to complete due to server issues or technical problems on our end, we may refund the entry fee to the user's wallet. This is subject to verification by our team.
+          If a game fails to complete due to server issues or technical problems on our end, we may refund the entry fee to the user`s wallet. This is subject to verification by our team.
         </p>
 
         <h2 className="text-2xl font-semibold text-orange-300 mt-6 mb-2">4. Fraudulent Activities</h2>

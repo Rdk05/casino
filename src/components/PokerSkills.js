@@ -69,7 +69,7 @@ const PokarSkills = () => {
               Top Games <span className="text-orange-400">Now!</span>!
             </h1>
             <p className="text-sm md:text-base text-gray-200 leading-relaxed max-w-xl">
-              Rummy is the nation's trusted rummy app, trusted by more than 3 crore verified players. As an online rummy app, Rummy has consistently offered the best game- play to its players, which includes free entry tournaments, Free Games, rewarding offers, and many more. Playing Indian Rummy on Rummy is not just an experience but an emotion that encourages rummy players to explore the world of online gaming profoundly.
+              Rummy is the nation`s trusted rummy app, trusted by more than 3 crore verified players. As an online rummy app, Rummy has consistently offered the best game- play to its players, which includes free entry tournaments, Free Games, rewarding offers, and many more. Playing Indian Rummy on Rummy is not just an experience but an emotion that encourages rummy players to explore the world of online gaming profoundly.
             </p>
           </div>
 

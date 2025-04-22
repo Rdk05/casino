@@ -17,7 +17,7 @@ const HomePage = () => {
           <h1 className="text-6xl font-bold mb-4 text-amber-300">Play rummay online</h1>
           <p className="text-md">
             Rummy has rapidly gained popularity among the Indian audience
-            because it's a game that is well-suited for various occasions.
+            because it`s a game that is well-suited for various occasions.
             Indian culture is all about getting together to celebrate even a
             small occasion. This is where the game of rummy found its place as a
             form of entertainment during these events. Rummy is a game that can

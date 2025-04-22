@@ -13,7 +13,7 @@ const Legality = () => {
 
         <h2 className="text-2xl font-semibold text-orange-300 mt-6 mb-2">1. Game of Skill</h2>
         <p className="text-gray-300 mb-4">
-          Rummy is classified as a "Game of Skill" under Indian law. As per the Supreme Court judgment, playing skill-based games like Rummy for real money is completely legal and does not fall under gambling.
+          Rummy is classified as a Game of Skill under Indian law. As per the Supreme Court judgment, playing skill-based games like Rummy for real money is completely legal and does not fall under gambling.
         </p>
 
         <h2 className="text-2xl font-semibold text-orange-300 mt-6 mb-2">2. Legal Jurisdictions</h2>

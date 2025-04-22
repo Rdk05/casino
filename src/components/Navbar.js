@@ -1,5 +1,6 @@
 'use client';
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";  // Use `usePathname` from next/navigation
 
@@ -20,7 +21,7 @@ const Navbar = () => {
     <nav className="bg-[#121217] px-4 py-2 flex items-center justify-between">
       {/* Logo */}
       <div className="flex-shrink-0">
-        <img src="/logo.jpg" alt="Logo" className="h-14 w-auto" />
+        <Image src="/logo.jpg" alt="Logo" className="h-14 w-auto" />
       </div>
 
       {/* Centered nav links */}
